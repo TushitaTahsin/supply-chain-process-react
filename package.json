@@ -152,5 +152,17 @@
     "presets": [
       "react-app"
     ]
-  }
+  },
+  "description": "```sh   $ cd supply-chain-process   $ npm install   $ npm start ```",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TushitaTahsin/supply-chain-process-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TushitaTahsin/supply-chain-process-react/issues"
+  },
+  "homepage": "https://github.com/TushitaTahsin/supply-chain-process-react#readme"
 }
